@@ -1,2 +1,2 @@
 language: csharp
-solution: /PreludeEngineTester/PreludeEngineTester.sln
+solution: ./PreludeEngineTester/PreludeEngineTester.sln
